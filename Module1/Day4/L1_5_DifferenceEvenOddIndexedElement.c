@@ -1,3 +1,4 @@
+//WAP to find the even odd index element
 #include<stdio.h>
 
 int main(){

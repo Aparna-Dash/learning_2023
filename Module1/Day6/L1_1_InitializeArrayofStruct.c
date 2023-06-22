@@ -1,3 +1,4 @@
+//WAP to initialze array of struct
 #include <stdio.h>
 #include<string.h>
 

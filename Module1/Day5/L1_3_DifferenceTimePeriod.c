@@ -1,3 +1,4 @@
+//WAP to perform different time period
 #include <stdio.h>
 
 // Define a structure to store time information.

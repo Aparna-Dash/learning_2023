@@ -1,5 +1,5 @@
 /**
- * How to declare, initialize and access array of structures in C
+ * WAP  to declare, initialize and access array of structures in C
  */
 
 #include <stdio.h>

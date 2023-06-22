@@ -1,3 +1,4 @@
+//WAP find the biggest number amoung two
 #include<stdio.h>
 int main(){
     int num1, num2;

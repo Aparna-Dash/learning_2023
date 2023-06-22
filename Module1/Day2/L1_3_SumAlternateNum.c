@@ -1,3 +1,4 @@
+// WAP to sum alternum
 #include <stdio.h>
 
 void sum_alternate_elements(int *array, int size) {

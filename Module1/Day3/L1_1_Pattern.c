@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 void printNumbers(int n);
+// WAP  to  print  a pattern
 void printSpaces(int n);
 void printReverseNumbers(int n);
 

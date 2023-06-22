@@ -1,4 +1,4 @@
-//Decimal to Binary/Octal/Hex Conversion
+//WAP Decimal to Binary/Octal/Hex Conversion
 
 
 #include <stdio.h>

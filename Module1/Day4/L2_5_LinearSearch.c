@@ -1,4 +1,4 @@
-
+//WAP to perform linear Search
 #include <stdio.h>
 // Function Declaration
 int LinearSearch(int arr[] , int size , int key);

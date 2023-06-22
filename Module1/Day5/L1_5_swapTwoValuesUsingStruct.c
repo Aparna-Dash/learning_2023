@@ -1,3 +1,4 @@
+//WAP to perform swap of two no using struct
 #include <stdio.h>
 
 struct Point {

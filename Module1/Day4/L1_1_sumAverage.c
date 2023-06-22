@@ -1,4 +1,4 @@
-
+// WAP to find the sum of average
 
 #include<stdio.h>
 

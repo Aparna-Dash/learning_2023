@@ -1,3 +1,4 @@
+// WAP the min max number
 #include<stdio.h>
 
 int main(){

@@ -1,3 +1,4 @@
+// WAP search array of struct
 #include <stdio.h>
 #include <string.h>
 

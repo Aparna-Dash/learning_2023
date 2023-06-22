@@ -1,4 +1,4 @@
-// Compute Total seconds in a string
+// WAP Compute Total seconds in a string
 
 #include <stdio.h>
 #include <stdlib.h>

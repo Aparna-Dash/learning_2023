@@ -1,3 +1,4 @@
+//WAP to find the smallest and largest number
 #include <stdio.h>
 #include <stdlib.h>
 

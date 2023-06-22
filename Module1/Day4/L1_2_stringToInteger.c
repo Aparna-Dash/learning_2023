@@ -1,4 +1,4 @@
-//Convert string as a integer
+//WAP Convert string as a integer
 
 #include <stdio.h>
 #include <string.h>

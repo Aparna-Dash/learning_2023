@@ -1,4 +1,4 @@
-
+//WAP a program to rotate a string
 
 #include <stdio.h>
 #include <string.h>

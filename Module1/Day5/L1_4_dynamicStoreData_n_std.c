@@ -1,3 +1,4 @@
+//WAp to dynamic store data
 #include <stdio.h>
 #include <stdlib.h>
 struct course {

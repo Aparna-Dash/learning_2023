@@ -1,3 +1,4 @@
+// WAP to do calculator operation
 #include<stdio.h>
 float calculate(float operand1, char operator, float operand2){
     float result;

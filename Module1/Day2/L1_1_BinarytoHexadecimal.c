@@ -1,3 +1,4 @@
+//WAP to convert Binary to Decimal
 #include <stdio.h>
 
 void printExponent(double x) {

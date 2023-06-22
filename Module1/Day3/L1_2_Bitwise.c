@@ -1,3 +1,4 @@
+// WAP to do bitwise
 #include <stdio.h>
 
 void print_bits(unsigned int n) {

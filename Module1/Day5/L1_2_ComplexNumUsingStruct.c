@@ -1,3 +1,4 @@
+//WAp to complex num using structure
 #include <stdio.h>
 
 // Structure to represent a complex number

@@ -1,3 +1,4 @@
+//WAP to display all member in an array
 #include <stdio.h>
 
 struct student {

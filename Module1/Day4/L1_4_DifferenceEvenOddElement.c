@@ -1,3 +1,4 @@
+//WAP to find the difference of even odd element
 #include<stdio.h>
 
 int main(){
